@@ -17,7 +17,7 @@ return {
             sections = {
                 lualine_a = {},
                 lualine_b = {
-                    { "branch", icon = "" }, -- Git branch with icon
+                    { "branch", icon = "" },
                     {
                         "mode",
                         fmt = function(str)
