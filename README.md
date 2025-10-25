@@ -1,0 +1,1 @@
+# Simple (Neo)vim config :)
